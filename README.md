@@ -12,3 +12,10 @@ debian
 # test
 
     perl domain_resolution_resiliency.pl google.com
+
+# dir
+
+    data: dns response data
+    res: domain resolution resiliency metric
+
+

@@ -1,0 +1,69 @@
+dom|ns|ns_ttl|ns_ip|ns_ip_ttl|ns_ip_as|ns_ip_anycast|ns_ip_country|ns_ip_region
+.|c.root-servers.net.|518400|192.33.4.12|3600000|AS2149 Cogent Communications|1|US|Washington, D.C.
+.|c.root-servers.net.|518400|2001:500:2::c|3600000|AS2149 Cogent Communications|0|US|Washington, D.C.
+.|h.root-servers.net.|518400|198.97.190.53|3600000|AS1508 Headquarters, USAISC|1|US|Arizona
+.|h.root-servers.net.|518400|2001:500:1::53|3600000|AS1508 Headquarters, USAISC|0|US|Washington, D.C.
+.|m.root-servers.net.|518400|202.12.27.33|3600000|AS7500 WIDE Project|1|JP|Tokyo
+.|m.root-servers.net.|518400|2001:dc3::35|3600000|AS7500 WIDE Project|0|JP|Tokyo
+.|b.root-servers.net.|518400|199.9.14.201|3600000|AS394353 B.Root-Server-OPS|1|US|California
+.|b.root-servers.net.|518400|2001:500:200::b|3600000|AS394353 B.Root-Server-OPS|0|US|California
+.|e.root-servers.net.|518400|192.203.230.10|3600000|AS21556 NASA Ames Research Center|1|US|Ohio
+.|e.root-servers.net.|518400|2001:500:a8::e|3600000|AS21556 NASA Ames Research Center|0|US|California
+.|d.root-servers.net.|518400|199.7.91.13|3600000|AS10886 University of Maryland|1|US|Maryland
+.|d.root-servers.net.|518400|2001:500:2d::d|3600000|AS10886 University of Maryland|0|US|Oregon
+.|l.root-servers.net.|518400|199.7.83.42|3600000|AS20144 ICANN|1|US|California
+.|l.root-servers.net.|518400|2001:500:9f::42|3600000|AS20144 ICANN|0|US|California
+.|f.root-servers.net.|518400|192.5.5.241|3600000|AS3557 Internet Systems Consortium, Inc.|1|US|New Hampshire
+.|f.root-servers.net.|518400|2001:500:2f::f|3600000|AS3557 Internet Systems Consortium, Inc.|0|US|New Hampshire
+.|a.root-servers.net.|518400|198.41.0.4|3600000|AS10515 VeriSign Infrastructure & Operations|1|US|Virginia
+.|a.root-servers.net.|518400|2001:503:ba3e::2:30|3600000|AS10515 VeriSign Infrastructure & Operations|0|US|Virginia
+.|g.root-servers.net.|518400|192.112.36.4|3600000|AS5927 DoD Network Information Center|0|US|Ohio
+.|g.root-servers.net.|518400|2001:500:12::d0d|3600000|AS5927 DoD Network Information Center|0|US|Ohio
+.|k.root-servers.net.|518400|193.0.14.129|3600000|AS25152 Reseaux IP Europeens Network Coordination Centre (RIPE NCC)|1|NL|North Holland
+.|k.root-servers.net.|518400|2001:7fd::1|3600000|AS25152 Reseaux IP Europeens Network Coordination Centre (RIPE NCC)|0|NL|North Holland
+.|j.root-servers.net.|518400|192.58.128.30|3600000|AS26415 VeriSign Global Registry Services|1|US|Virginia
+.|j.root-servers.net.|518400|2001:503:c27::2:30|3600000|AS22547 VeriSign Global Registry Services|0|US|Virginia
+.|i.root-servers.net.|518400|192.36.148.17|3600000|AS29216 NETNOD Internet Exchange i Sverige AB|1|SE|Stockholm
+.|i.root-servers.net.|518400|2001:7fe::53|3600000|AS29216 NETNOD Internet Exchange i Sverige AB|0|SE|Stockholm
+com.|a.gtld-servers.net.|172800|192.5.6.30|86400|AS26415 VeriSign Global Registry Services|1|US|Virginia
+com.|a.gtld-servers.net.|172800|2001:503:a83e::2:30|86400|AS10515 VeriSign Infrastructure & Operations|0|US|Virginia
+com.|b.gtld-servers.net.|172800|192.33.14.30|86400|AS26415 VeriSign Global Registry Services|1|US|Virginia
+com.|b.gtld-servers.net.|172800|2001:503:231d::2:30|86400|AS26415 VeriSign Global Registry Services|0|US|Virginia
+com.|c.gtld-servers.net.|172800|192.26.92.30|86400|AS27544 VeriSign Global Registry Services|1|US|Virginia
+com.|c.gtld-servers.net.|172800|2001:503:83eb::30|86400|AS10515 VeriSign Infrastructure & Operations|0|US|Virginia
+com.|d.gtld-servers.net.|172800|192.31.80.30|86400|AS27544 VeriSign Global Registry Services|1|US|Virginia
+com.|d.gtld-servers.net.|172800|2001:500:856e::30|86400|AS10515 VeriSign Infrastructure & Operations|0|US|Virginia
+com.|e.gtld-servers.net.|172800|192.12.94.30|86400|AS27544 VeriSign Global Registry Services|1|US|Virginia
+com.|e.gtld-servers.net.|172800|2001:502:1ca1::30|86400|AS10515 VeriSign Infrastructure & Operations|0|US|Virginia
+com.|f.gtld-servers.net.|172800|192.35.51.30|86400|AS29966 VeriSign Global Registry Services|1|US|Virginia
+com.|f.gtld-servers.net.|172800|2001:503:d414::30|86400|AS29966 VeriSign Global Registry Services|0|US|California
+com.|g.gtld-servers.net.|172800|192.42.93.30|86400|AS29966 VeriSign Global Registry Services|1|US|Virginia
+com.|g.gtld-servers.net.|172800|2001:503:eea3::30|86400|AS29966 VeriSign Global Registry Services|0|US|California
+com.|h.gtld-servers.net.|172800|192.54.112.30|86400|AS29966 VeriSign Global Registry Services|1|US|Virginia
+com.|h.gtld-servers.net.|172800|2001:502:8cc::30|86400|AS29966 VeriSign Global Registry Services|0|US|California
+com.|i.gtld-servers.net.|172800|192.43.172.30|86400|AS29966 VeriSign Global Registry Services|1|US|Virginia
+com.|i.gtld-servers.net.|172800|2001:503:39c1::30|86400|AS29966 VeriSign Global Registry Services|0|US|California
+com.|j.gtld-servers.net.|172800|192.48.79.30|86400|AS36623 VeriSign Global Registry Services|1|US|Virginia
+com.|j.gtld-servers.net.|172800|2001:502:7094::30|86400|AS22547 VeriSign Global Registry Services|0|US|Virginia
+com.|k.gtld-servers.net.|172800|192.52.178.30|86400|AS36623 VeriSign Global Registry Services|1|US|Virginia
+com.|k.gtld-servers.net.|172800|2001:503:d2d::30|86400|AS22547 VeriSign Global Registry Services|0|US|Virginia
+com.|l.gtld-servers.net.|172800|192.41.162.30|86400|AS36623 VeriSign Global Registry Services|1|US|Virginia
+com.|l.gtld-servers.net.|172800|2001:500:d937::30|86400|AS22547 VeriSign Global Registry Services|0|US|Virginia
+com.|m.gtld-servers.net.|172800|192.55.83.30|86400|AS36623 VeriSign Global Registry Services|1|US|Virginia
+com.|m.gtld-servers.net.|172800|2001:501:b1f9::30|86400|AS22547 VeriSign Global Registry Services|0|US|Virginia
+facebook.com.|a.ns.facebook.com.|172800|129.134.30.12|172800|AS32934 Facebook, Inc.|1|US|California
+facebook.com.|a.ns.facebook.com.|172800|2a03:2880:f0fc:c:face:b00c:0:35|172800|AS32934 Facebook, Inc.|0|IE|Leinster
+facebook.com.|b.ns.facebook.com.|172800|129.134.31.12|172800|AS32934 Facebook, Inc.|1|US|California
+facebook.com.|b.ns.facebook.com.|172800|2a03:2880:f0fd:c:face:b00c:0:35|172800|AS32934 Facebook, Inc.|0|IE|Leinster
+facebook.com.|c.ns.facebook.com.|172800|185.89.218.12|172800|AS32934 Facebook, Inc.|1|IL|Tel Aviv
+facebook.com.|c.ns.facebook.com.|172800|2a03:2880:f1fc:c:face:b00c:0:35|172800|AS32934 Facebook, Inc.|0|IE|Leinster
+facebook.com.|d.ns.facebook.com.|172800|185.89.219.12|172800|AS32934 Facebook, Inc.|1|IL|Tel Aviv
+facebook.com.|d.ns.facebook.com.|172800|2a03:2880:f1fd:c:face:b00c:0:35|172800|AS32934 Facebook, Inc.|0|IE|Leinster
+c10r.facebook.com.|d.ns.c10r.facebook.com.|3600|185.89.219.11|3600|AS32934 Facebook, Inc.|1|IL|Tel Aviv
+c10r.facebook.com.|d.ns.c10r.facebook.com.|3600|2a03:2880:f1fd:b:face:b00c:0:99|3600|AS32934 Facebook, Inc.|0|IE|Leinster
+c10r.facebook.com.|a.ns.c10r.facebook.com.|3600|129.134.30.11|3600|AS32934 Facebook, Inc.|1|US|California
+c10r.facebook.com.|a.ns.c10r.facebook.com.|3600|2a03:2880:f0fc:b:face:b00c:0:99|3600|AS32934 Facebook, Inc.|0|IE|Leinster
+c10r.facebook.com.|b.ns.c10r.facebook.com.|3600|129.134.31.11|3600|AS32934 Facebook, Inc.|1|US|California
+c10r.facebook.com.|b.ns.c10r.facebook.com.|3600|2a03:2880:f0fd:b:face:b00c:0:99|3600|AS32934 Facebook, Inc.|0|IE|Leinster
+c10r.facebook.com.|c.ns.c10r.facebook.com.|3600|185.89.218.11|3600|AS32934 Facebook, Inc.|1|IL|Tel Aviv
+c10r.facebook.com.|c.ns.c10r.facebook.com.|3600|2a03:2880:f1fc:b:face:b00c:0:99|3600|AS32934 Facebook, Inc.|0|IE|Leinster

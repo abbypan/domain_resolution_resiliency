@@ -1,0 +1,14 @@
+qd|qt|dom|type|rr|rr_ttl|rr_ip|rr_ip_ttl|rr_ip_as|rr_ip_anycast|rr_ip_country|rr_ip_region
+twitter.com.|MX|twitter.com.|MX|aspmx.l.google.com.|600|74.125.142.26|293|AS15169 Google LLC|0|US|California
+twitter.com.|MX|twitter.com.|MX|aspmx.l.google.com.|600|2607:f8b0:400e:c09::1a|293|AS15169 Google LLC|0|US|Oregon
+twitter.com.|MX|twitter.com.|MX|alt1.aspmx.l.google.com.|600|64.233.171.27|293|AS15169 Google LLC|0|US|Oklahoma
+twitter.com.|MX|twitter.com.|MX|alt1.aspmx.l.google.com.|600|2607:f8b0:4003:c15::1b|293|AS15169 Google LLC|0|US|Oklahoma
+twitter.com.|MX|twitter.com.|MX|alt2.aspmx.l.google.com.|600|142.250.152.26|293|AS15169 Google LLC|0|US|Iowa
+twitter.com.|MX|twitter.com.|MX|alt2.aspmx.l.google.com.|600|2607:f8b0:4001:c56::1b|293|AS15169 Google LLC|0|US|Iowa
+twitter.com.|MX|twitter.com.|MX|aspmx2.googlemail.com.|600|64.233.171.27|293|AS15169 Google LLC|0|US|Oklahoma
+twitter.com.|MX|twitter.com.|MX|aspmx2.googlemail.com.|600|2607:f8b0:4003:c15::1a|293|AS15169 Google LLC|0|US|Oklahoma
+twitter.com.|MX|twitter.com.|MX|aspmx3.googlemail.com.|600|142.250.152.27|293|AS15169 Google LLC|0|US|Iowa
+twitter.com.|MX|twitter.com.|MX|aspmx3.googlemail.com.|600|2607:f8b0:4001:c56::1b|293|AS15169 Google LLC|0|US|Iowa
+www.twitter.com.|A|www.twitter.com.|CNAME|twitter.com.|600|twitter.com.|600||||
+www.twitter.com.|A|twitter.com.|A|104.244.42.193|1800|104.244.42.193|1800|AS13414 Twitter Inc.|1|US|California
+www.twitter.com.|AAAA|www.twitter.com.|CNAME|twitter.com.|600|twitter.com.|600||||

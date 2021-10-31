@@ -1,0 +1,11 @@
+{
+  "ip": "2001:500:2d::d",
+  "city": "Portland",
+  "region": "Oregon",
+  "country": "US",
+  "loc": "45.5234,-122.6762",
+  "org": "AS10886 University of Maryland",
+  "postal": "97204",
+  "timezone": "America/Los_Angeles",
+  "readme": "https://ipinfo.io/missingauth"
+}

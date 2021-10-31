@@ -1,0 +1,13 @@
+{
+  "ip": "192.203.230.10",
+  "hostname": "e.root-servers.net",
+  "anycast": true,
+  "city": "Cleveland",
+  "region": "Ohio",
+  "country": "US",
+  "loc": "41.4342,-81.8044",
+  "org": "AS21556 NASA Ames Research Center",
+  "postal": "44135",
+  "timezone": "America/New_York",
+  "readme": "https://ipinfo.io/missingauth"
+}

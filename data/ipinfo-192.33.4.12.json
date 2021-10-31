@@ -1,0 +1,13 @@
+{
+  "ip": "192.33.4.12",
+  "hostname": "c.root-servers.net",
+  "anycast": true,
+  "city": "Washington",
+  "region": "Washington, D.C.",
+  "country": "US",
+  "loc": "38.9014,-77.0504",
+  "org": "AS2149 Cogent Communications",
+  "postal": "20037",
+  "timezone": "America/New_York",
+  "readme": "https://ipinfo.io/missingauth"
+}

@@ -1,0 +1,13 @@
+{
+  "ip": "204.74.115.1",
+  "hostname": "pdns6.ultradns.co.uk",
+  "anycast": true,
+  "city": "Tempe",
+  "region": "Arizona",
+  "country": "US",
+  "loc": "33.3917,-111.9249",
+  "org": "AS12008 NeuStar, Inc.",
+  "postal": "85282",
+  "timezone": "America/Phoenix",
+  "readme": "https://ipinfo.io/missingauth"
+}

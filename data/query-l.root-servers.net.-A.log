@@ -1,0 +1,14 @@
+.	518400	IN	NS	m.root-servers.net.
+.	518400	IN	NS	b.root-servers.net.
+.	518400	IN	NS	c.root-servers.net.
+.	518400	IN	NS	d.root-servers.net.
+.	518400	IN	NS	e.root-servers.net.
+.	518400	IN	NS	f.root-servers.net.
+.	518400	IN	NS	g.root-servers.net.
+.	518400	IN	NS	h.root-servers.net.
+.	518400	IN	NS	a.root-servers.net.
+.	518400	IN	NS	i.root-servers.net.
+.	518400	IN	NS	j.root-servers.net.
+.	518400	IN	NS	k.root-servers.net.
+.	518400	IN	NS	l.root-servers.net.
+l.root-servers.net.	3600000	IN	A	199.7.83.42

@@ -1,0 +1,13 @@
+{
+  "ip": "192.36.148.17",
+  "hostname": "i.root-servers.net",
+  "anycast": true,
+  "city": "Stockholm",
+  "region": "Stockholm",
+  "country": "SE",
+  "loc": "59.3294,18.0687",
+  "org": "AS29216 NETNOD Internet Exchange i Sverige AB",
+  "postal": "100 05",
+  "timezone": "Europe/Stockholm",
+  "readme": "https://ipinfo.io/missingauth"
+}

@@ -1,0 +1,156 @@
+dom|ns|ns_ttl|ns_ip|ns_ip_ttl|ns_ip_as|ns_ip_anycast|ns_ip_country|ns_ip_region
+.|a.root-servers.net.|518400|198.41.0.4|3600000|AS10515 VeriSign Infrastructure & Operations|1|US|Virginia
+.|a.root-servers.net.|518400|2001:503:ba3e::2:30|3600000|AS10515 VeriSign Infrastructure & Operations|0|US|Virginia
+.|b.root-servers.net.|518400|199.9.14.201|3600000|AS394353 B.Root-Server-OPS|1|US|California
+.|b.root-servers.net.|518400|2001:500:200::b|3600000|AS394353 B.Root-Server-OPS|0|US|California
+.|c.root-servers.net.|518400|192.33.4.12|3600000|AS2149 Cogent Communications|1|US|Washington, D.C.
+.|c.root-servers.net.|518400|2001:500:2::c|3600000|AS2149 Cogent Communications|0|US|Washington, D.C.
+.|d.root-servers.net.|518400|199.7.91.13|3600000|AS10886 University of Maryland|1|US|Maryland
+.|d.root-servers.net.|518400|2001:500:2d::d|3600000|AS10886 University of Maryland|0|US|Oregon
+.|e.root-servers.net.|518400|192.203.230.10|3600000|AS21556 NASA Ames Research Center|1|US|Ohio
+.|e.root-servers.net.|518400|2001:500:a8::e|3600000|AS21556 NASA Ames Research Center|0|US|California
+.|f.root-servers.net.|518400|192.5.5.241|3600000|AS3557 Internet Systems Consortium, Inc.|1|US|New Hampshire
+.|f.root-servers.net.|518400|2001:500:2f::f|3600000|AS3557 Internet Systems Consortium, Inc.|0|US|New Hampshire
+.|g.root-servers.net.|518400|192.112.36.4|3600000|AS5927 DoD Network Information Center|0|US|Ohio
+.|g.root-servers.net.|518400|2001:500:12::d0d|3600000|AS5927 DoD Network Information Center|0|US|Ohio
+.|h.root-servers.net.|518400|198.97.190.53|3600000|AS1508 Headquarters, USAISC|1|US|Arizona
+.|h.root-servers.net.|518400|2001:500:1::53|3600000|AS1508 Headquarters, USAISC|0|US|Washington, D.C.
+.|i.root-servers.net.|518400|192.36.148.17|3600000|AS29216 NETNOD Internet Exchange i Sverige AB|1|SE|Stockholm
+.|i.root-servers.net.|518400|2001:7fe::53|3600000|AS29216 NETNOD Internet Exchange i Sverige AB|0|SE|Stockholm
+.|j.root-servers.net.|518400|192.58.128.30|3600000|AS26415 VeriSign Global Registry Services|1|US|Virginia
+.|j.root-servers.net.|518400|2001:503:c27::2:30|3600000|AS22547 VeriSign Global Registry Services|0|US|Virginia
+.|k.root-servers.net.|518400|193.0.14.129|3600000|AS25152 Reseaux IP Europeens Network Coordination Centre (RIPE NCC)|1|NL|North Holland
+.|k.root-servers.net.|518400|2001:7fd::1|3600000|AS25152 Reseaux IP Europeens Network Coordination Centre (RIPE NCC)|0|NL|North Holland
+.|l.root-servers.net.|518400|199.7.83.42|3600000|AS20144 ICANN|1|US|California
+.|l.root-servers.net.|518400|2001:500:9f::42|3600000|AS20144 ICANN|0|US|California
+.|m.root-servers.net.|518400|202.12.27.33|3600000|AS7500 WIDE Project|1|JP|Tokyo
+.|m.root-servers.net.|518400|2001:dc3::35|3600000|AS7500 WIDE Project|0|JP|Tokyo
+com.|a.gtld-servers.net.|172800|192.5.6.30|86400|AS26415 VeriSign Global Registry Services|1|US|Virginia
+com.|a.gtld-servers.net.|172800|2001:503:a83e::2:30|86400|AS10515 VeriSign Infrastructure & Operations|0|US|Virginia
+com.|b.gtld-servers.net.|172800|192.33.14.30|86400|AS26415 VeriSign Global Registry Services|1|US|Virginia
+com.|b.gtld-servers.net.|172800|2001:503:231d::2:30|86400|AS26415 VeriSign Global Registry Services|0|US|Virginia
+com.|c.gtld-servers.net.|172800|192.26.92.30|86400|AS27544 VeriSign Global Registry Services|1|US|Virginia
+com.|c.gtld-servers.net.|172800|2001:503:83eb::30|86400|AS10515 VeriSign Infrastructure & Operations|0|US|Virginia
+com.|d.gtld-servers.net.|172800|192.31.80.30|86400|AS27544 VeriSign Global Registry Services|1|US|Virginia
+com.|d.gtld-servers.net.|172800|2001:500:856e::30|86400|AS10515 VeriSign Infrastructure & Operations|0|US|Virginia
+com.|e.gtld-servers.net.|172800|192.12.94.30|86400|AS27544 VeriSign Global Registry Services|1|US|Virginia
+com.|e.gtld-servers.net.|172800|2001:502:1ca1::30|86400|AS10515 VeriSign Infrastructure & Operations|0|US|Virginia
+com.|f.gtld-servers.net.|172800|192.35.51.30|86400|AS29966 VeriSign Global Registry Services|1|US|Virginia
+com.|f.gtld-servers.net.|172800|2001:503:d414::30|86400|AS29966 VeriSign Global Registry Services|0|US|California
+com.|g.gtld-servers.net.|172800|192.42.93.30|86400|AS29966 VeriSign Global Registry Services|1|US|Virginia
+com.|g.gtld-servers.net.|172800|2001:503:eea3::30|86400|AS29966 VeriSign Global Registry Services|0|US|California
+com.|h.gtld-servers.net.|172800|192.54.112.30|86400|AS29966 VeriSign Global Registry Services|1|US|Virginia
+com.|h.gtld-servers.net.|172800|2001:502:8cc::30|86400|AS29966 VeriSign Global Registry Services|0|US|California
+com.|i.gtld-servers.net.|172800|192.43.172.30|86400|AS29966 VeriSign Global Registry Services|1|US|Virginia
+com.|i.gtld-servers.net.|172800|2001:503:39c1::30|86400|AS29966 VeriSign Global Registry Services|0|US|California
+com.|j.gtld-servers.net.|172800|192.48.79.30|86400|AS36623 VeriSign Global Registry Services|1|US|Virginia
+com.|j.gtld-servers.net.|172800|2001:502:7094::30|86400|AS22547 VeriSign Global Registry Services|0|US|Virginia
+com.|k.gtld-servers.net.|172800|192.52.178.30|86400|AS36623 VeriSign Global Registry Services|1|US|Virginia
+com.|k.gtld-servers.net.|172800|2001:503:d2d::30|86400|AS22547 VeriSign Global Registry Services|0|US|Virginia
+com.|l.gtld-servers.net.|172800|192.41.162.30|86400|AS36623 VeriSign Global Registry Services|1|US|Virginia
+com.|l.gtld-servers.net.|172800|2001:500:d937::30|86400|AS22547 VeriSign Global Registry Services|0|US|Virginia
+com.|m.gtld-servers.net.|172800|192.55.83.30|86400|AS36623 VeriSign Global Registry Services|1|US|Virginia
+com.|m.gtld-servers.net.|172800|2001:501:b1f9::30|86400|AS22547 VeriSign Global Registry Services|0|US|Virginia
+qq.com.|ns1.qq.com.|172800|203.205.220.251|3600|AS132203 Tencent Building, Kejizhongyi Avenue|1|HK|Sham Shui Po
+qq.com.|ns1.qq.com.|172800|183.36.112.46|3600|AS4816 China Telecom (Group)|0|CN|Guangdong
+qq.com.|ns1.qq.com.|172800|157.255.246.101|3600|AS17623 China Unicom Shenzen network|0|CN|Guangdong
+qq.com.|ns1.qq.com.|172800|101.89.19.165|3600|AS4812 China Telecom (Group)|0|CN|Shanghai
+qq.com.|ns1.qq.com.|172800|2402:4e00:8030::115|600|AS45090 Shenzhen Tencent Computer Systems Company Limited|0|CN|Guangdong
+qq.com.|ns2.qq.com.|172800|123.151.66.78|600|AS58542 Tianjij,300000|0|CN|Tianjin
+qq.com.|ns2.qq.com.|172800|203.205.177.41|600||0|CA|Ontario
+qq.com.|ns2.qq.com.|172800|121.51.160.100|600|AS45090 Shenzhen Tencent Computer Systems Company Limited|0|CN|Guangdong
+qq.com.|ns2.qq.com.|172800|203.205.249.143|600|AS132203 Tencent Building, Kejizhongyi Avenue|1|HK|Sham Shui Po
+qq.com.|ns2.qq.com.|172800|2402:4e00:8010:1::11c|600|AS45090 Shenzhen Tencent Computer Systems Company Limited|0|CN|Guangdong
+qq.com.|ns3.qq.com.|172800|112.60.1.69|600|AS9808 China Mobile Communications Group Co., Ltd.|0|CN|Guangdong
+qq.com.|ns3.qq.com.|172800|203.205.195.94|600|AS132203 Tencent Building, Kejizhongyi Avenue|0|US|Washington
+qq.com.|ns3.qq.com.|172800|183.192.164.81|600|AS9808 China Mobile Communications Group Co., Ltd.|0|CN|Shanghai
+qq.com.|ns4.qq.com.|172800|203.205.195.104|600|AS132203 Tencent Building, Kejizhongyi Avenue|0|US|Washington
+qq.com.|ns4.qq.com.|172800|125.39.46.125|600|AS4837 CHINA UNICOM China169 Backbone|0|CN|Beijing
+qq.com.|ns4.qq.com.|172800|58.144.154.100|600|AS4837 CHINA UNICOM China169 Backbone|0|CN|Fujian
+qq.com.|ns4.qq.com.|172800|59.36.132.142|600|AS4816 China Telecom (Group)|0|CN|Beijing
+qq.com.|ns4.qq.com.|172800|203.205.221.79|600|AS132203 Tencent Building, Kejizhongyi Avenue|1|HK|Sham Shui Po
+www.qq.com.|ns-cmn1.qq.com.|86400|182.254.52.55|3600|AS45090 Shenzhen Tencent Computer Systems Company Limited|1|CN|Beijing
+www.qq.com.|ns-cmn1.qq.com.|86400|121.51.160.207|3600|AS45090 Shenzhen Tencent Computer Systems Company Limited|0|CN|Guangdong
+www.qq.com.|ns-cmn1.qq.com.|86400|121.51.94.181|3600|AS45090 Shenzhen Tencent Computer Systems Company Limited|0|CN|Guangdong
+www.qq.com.|ns-cmn1.qq.com.|86400|2402:4e00:8010:1::22|600|AS45090 Shenzhen Tencent Computer Systems Company Limited|0|CN|Guangdong
+www.qq.com.|ns-tel1.qq.com.|86400|58.60.10.100|3600|AS4816 China Telecom (Group)|0|CN|Guangdong
+www.qq.com.|ns-tel1.qq.com.|86400|123.151.66.83|3600|AS58542 Tianjij,300000|0|CN|Tianjin
+www.qq.com.|ns-tel1.qq.com.|86400|101.91.94.51|3600|AS4812 China Telecom (Group)|0|CN|Shanghai
+www.qq.com.|ns-tel1.qq.com.|86400|2402:4e00:8030::3|600|AS45090 Shenzhen Tencent Computer Systems Company Limited|0|CN|Guangdong
+www.qq.com.|ns-cnc1.qq.com.|86400|116.128.153.20|600|AS17621 China Unicom Shanghai network|0|CN|Shanghai
+www.qq.com.|ns-cnc1.qq.com.|86400|111.161.107.195|600|AS4837 CHINA UNICOM China169 Backbone|0|CN|Tianjin
+www.qq.com.|ns-cnc1.qq.com.|86400|58.251.103.109|600|AS135061 China Unicom Guangdong IP network|0|CN|Guangdong
+www.qq.com.|ns-cnc1.qq.com.|86400|2402:4e00:8030::3|600|AS45090 Shenzhen Tencent Computer Systems Company Limited|0|CN|Guangdong
+www.qq.com.|ns-os1.qq.com.|86400|203.205.195.75|600|AS132203 Tencent Building, Kejizhongyi Avenue|0|US|Washington
+www.qq.com.|ns-os1.qq.com.|86400|203.205.195.53|600|AS132203 Tencent Building, Kejizhongyi Avenue|0|US|Washington
+www.qq.com.|ns-os1.qq.com.|86400|203.205.220.26|600|AS132203 Tencent Building, Kejizhongyi Avenue|1|HK|Sham Shui Po
+www.qq.com.|ns-os1.qq.com.|86400|203.205.236.198|600|AS132203 Tencent Building, Kejizhongyi Avenue|1|HK|Sham Shui Po
+www.qq.com.|ns-os1.qq.com.|86400|2402:4e00:8010:1::22|600|AS45090 Shenzhen Tencent Computer Systems Company Limited|0|CN|Guangdong
+net.|d.gtld-servers.net.|172800|192.31.80.30|86400|AS27544 VeriSign Global Registry Services|1|US|Virginia
+net.|d.gtld-servers.net.|172800|2001:500:856e::30|86400|AS10515 VeriSign Infrastructure & Operations|0|US|Virginia
+net.|l.gtld-servers.net.|172800|192.41.162.30|86400|AS36623 VeriSign Global Registry Services|1|US|Virginia
+net.|l.gtld-servers.net.|172800|2001:500:d937::30|86400|AS22547 VeriSign Global Registry Services|0|US|Virginia
+net.|i.gtld-servers.net.|172800|192.43.172.30|86400|AS29966 VeriSign Global Registry Services|1|US|Virginia
+net.|i.gtld-servers.net.|172800|2001:503:39c1::30|86400|AS29966 VeriSign Global Registry Services|0|US|California
+net.|f.gtld-servers.net.|172800|192.35.51.30|86400|AS29966 VeriSign Global Registry Services|1|US|Virginia
+net.|f.gtld-servers.net.|172800|2001:503:d414::30|86400|AS29966 VeriSign Global Registry Services|0|US|California
+net.|b.gtld-servers.net.|172800|192.33.14.30|86400|AS26415 VeriSign Global Registry Services|1|US|Virginia
+net.|b.gtld-servers.net.|172800|2001:503:231d::2:30|86400|AS26415 VeriSign Global Registry Services|0|US|Virginia
+net.|g.gtld-servers.net.|172800|192.42.93.30|86400|AS29966 VeriSign Global Registry Services|1|US|Virginia
+net.|g.gtld-servers.net.|172800|2001:503:eea3::30|86400|AS29966 VeriSign Global Registry Services|0|US|California
+net.|a.gtld-servers.net.|172800|192.5.6.30|86400|AS26415 VeriSign Global Registry Services|1|US|Virginia
+net.|a.gtld-servers.net.|172800|2001:503:a83e::2:30|86400|AS10515 VeriSign Infrastructure & Operations|0|US|Virginia
+net.|k.gtld-servers.net.|172800|192.52.178.30|86400|AS36623 VeriSign Global Registry Services|1|US|Virginia
+net.|k.gtld-servers.net.|172800|2001:503:d2d::30|86400|AS22547 VeriSign Global Registry Services|0|US|Virginia
+net.|m.gtld-servers.net.|172800|192.55.83.30|86400|AS36623 VeriSign Global Registry Services|1|US|Virginia
+net.|m.gtld-servers.net.|172800|2001:501:b1f9::30|86400|AS22547 VeriSign Global Registry Services|0|US|Virginia
+net.|e.gtld-servers.net.|172800|192.12.94.30|86400|AS27544 VeriSign Global Registry Services|1|US|Virginia
+net.|e.gtld-servers.net.|172800|2001:502:1ca1::30|86400|AS10515 VeriSign Infrastructure & Operations|0|US|Virginia
+net.|h.gtld-servers.net.|172800|192.54.112.30|86400|AS29966 VeriSign Global Registry Services|1|US|Virginia
+net.|h.gtld-servers.net.|172800|2001:502:8cc::30|86400|AS29966 VeriSign Global Registry Services|0|US|California
+net.|j.gtld-servers.net.|172800|192.48.79.30|86400|AS36623 VeriSign Global Registry Services|1|US|Virginia
+net.|j.gtld-servers.net.|172800|2001:502:7094::30|86400|AS22547 VeriSign Global Registry Services|0|US|Virginia
+net.|c.gtld-servers.net.|172800|192.26.92.30|86400|AS27544 VeriSign Global Registry Services|1|US|Virginia
+net.|c.gtld-servers.net.|172800|2001:503:83eb::30|86400|AS10515 VeriSign Infrastructure & Operations|0|US|Virginia
+edgekey.net.|ns1-66.akam.net.|172800|193.108.91.66|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+edgekey.net.|ns1-66.akam.net.|172800|2600:1401:2::42|90000|AS21342 Akamai International B.V.|0|US|Florida
+edgekey.net.|usw6.akam.net.|172800|23.61.199.64|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+edgekey.net.|adns1.akam.net.|172800|96.7.50.66|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+edgekey.net.|ns4-66.akam.net.|172800|84.53.139.66|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+edgekey.net.|ns7-65.akam.net.|172800|96.7.49.65|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+edgekey.net.|ns5-66.akam.net.|172800|184.85.248.66|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+edgekey.net.|a6-65.akam.net.|172800|23.211.133.65|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+edgekey.net.|a6-65.akam.net.|172800|2600:1401:1::41|90000|AS21342 Akamai International B.V.|0|US|Massachusetts
+edgekey.net.|a12-65.akam.net.|172800|184.26.160.65|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+edgekey.net.|a5-65.akam.net.|172800|95.100.168.65|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+edgekey.net.|a5-65.akam.net.|172800|2600:1480:b000::41|90000|AS21342 Akamai International B.V.|0|US|Massachusetts
+edgekey.net.|a16-65.akam.net.|172800|23.211.132.65|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+edgekey.net.|a16-65.akam.net.|172800|2600:1406:1b::41|90000|AS21342 Akamai International B.V.|0|US|Massachusetts
+edgekey.net.|a18-65.akam.net.|172800|95.101.36.65|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+edgekey.net.|a28-65.akam.net.|172800|95.100.173.65|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+edgekey.net.|a13-65.akam.net.|172800|2.22.230.65|90000|AS21342 Akamai International B.V.|1|ES|Castille-La Mancha
+edgekey.net.|a13-65.akam.net.|172800|2600:1480:800::41|90000|AS21342 Akamai International B.V.|0|US|Massachusetts
+akamaiedge.net.|la1.akamaiedge.net.|172800|184.26.161.192|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+akamaiedge.net.|la3.akamaiedge.net.|172800|95.101.36.192|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+akamaiedge.net.|lar2.akamaiedge.net.|172800|2.16.40.192|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+akamaiedge.net.|ns3-194.akamaiedge.net.|172800|23.61.199.194|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+akamaiedge.net.|ns3-194.akamaiedge.net.|172800|2600:1406:32::c2|90000|AS21342 Akamai International B.V.|0|DK|Capital Region
+akamaiedge.net.|ns6-194.akamaiedge.net.|172800|95.100.168.194|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+akamaiedge.net.|ns7-194.akamaiedge.net.|172800|96.7.49.194|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+akamaiedge.net.|ns5-194.akamaiedge.net.|172800|184.85.248.194|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+akamaiedge.net.|a12-192.akamaiedge.net.|172800|184.26.160.192|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+akamaiedge.net.|a28-192.akamaiedge.net.|172800|95.100.173.192|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+akamaiedge.net.|a6-192.akamaiedge.net.|172800|23.211.133.192|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+akamaiedge.net.|a1-192.akamaiedge.net.|172800|193.108.88.0|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+akamaiedge.net.|a13-192.akamaiedge.net.|172800|2.22.230.192|90000|AS21342 Akamai International B.V.|1|ES|Castille-La Mancha
+akamaiedge.net.|a11-192.akamaiedge.net.|172800|84.53.139.192|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+akamaiedge.net.|a11-192.akamaiedge.net.|172800|2600:1480:1::c0|90000|AS21342 Akamai International B.V.|0|US|Massachusetts
+dscf.akamaiedge.net.|n5dscf.akamaiedge.net.|4000|23.36.15.205|4000|AS20940 Akamai International B.V.|0|US|California
+dscf.akamaiedge.net.|n3dscf.akamaiedge.net.|4000|184.27.141.55|4000|AS20940 Akamai International B.V.|0|US|California
+dscf.akamaiedge.net.|n6dscf.akamaiedge.net.|4000|23.36.15.165|4000|AS20940 Akamai International B.V.|0|US|California
+dscf.akamaiedge.net.|n7dscf.akamaiedge.net.|4000|23.36.15.207|4000|AS20940 Akamai International B.V.|0|US|California
+dscf.akamaiedge.net.|n4dscf.akamaiedge.net.|4000|23.209.102.206|4000|AS20940 Akamai International B.V.|0|US|California
+dscf.akamaiedge.net.|n2dscf.akamaiedge.net.|4000|23.46.210.31|4000|AS20940 Akamai International B.V.|0|US|California
+dscf.akamaiedge.net.|n0dscf.akamaiedge.net.|4000|88.221.81.192|4000|AS21342 Akamai International B.V.|1|US|Massachusetts
+dscf.akamaiedge.net.|n0dscf.akamaiedge.net.|4000|2600:1480:e800::c0|4000|AS21342 Akamai International B.V.|0|US|Massachusetts
+dscf.akamaiedge.net.|n1dscf.akamaiedge.net.|4000|23.36.15.135|4000|AS20940 Akamai International B.V.|0|US|California

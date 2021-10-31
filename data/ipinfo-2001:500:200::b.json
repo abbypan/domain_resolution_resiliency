@@ -1,0 +1,11 @@
+{
+  "ip": "2001:500:200::b",
+  "city": "Santa Monica",
+  "region": "California",
+  "country": "US",
+  "loc": "33.9779,-118.4525",
+  "org": "AS394353 B.Root-Server-OPS",
+  "postal": "90292",
+  "timezone": "America/Los_Angeles",
+  "readme": "https://ipinfo.io/missingauth"
+}

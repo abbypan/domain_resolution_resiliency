@@ -1,0 +1,156 @@
+dom|ns|ns_ttl|ns_ip|ns_ip_ttl|ns_ip_as|ns_ip_anycast|ns_ip_country|ns_ip_region
+.|m.root-servers.net.|518400|202.12.27.33|3600000|AS7500 WIDE Project|1|JP|Tokyo
+.|m.root-servers.net.|518400|2001:dc3::35|3600000|AS7500 WIDE Project|0|JP|Tokyo
+.|d.root-servers.net.|518400|199.7.91.13|3600000|AS10886 University of Maryland|1|US|Maryland
+.|d.root-servers.net.|518400|2001:500:2d::d|3600000|AS10886 University of Maryland|0|US|Oregon
+.|b.root-servers.net.|518400|199.9.14.201|3600000|AS394353 B.Root-Server-OPS|1|US|California
+.|b.root-servers.net.|518400|2001:500:200::b|3600000|AS394353 B.Root-Server-OPS|0|US|California
+.|i.root-servers.net.|518400|192.36.148.17|3600000|AS29216 NETNOD Internet Exchange i Sverige AB|1|SE|Stockholm
+.|i.root-servers.net.|518400|2001:7fe::53|3600000|AS29216 NETNOD Internet Exchange i Sverige AB|0|SE|Stockholm
+.|k.root-servers.net.|518400|193.0.14.129|3600000|AS25152 Reseaux IP Europeens Network Coordination Centre (RIPE NCC)|1|NL|North Holland
+.|k.root-servers.net.|518400|2001:7fd::1|3600000|AS25152 Reseaux IP Europeens Network Coordination Centre (RIPE NCC)|0|NL|North Holland
+.|j.root-servers.net.|518400|192.58.128.30|3600000|AS26415 VeriSign Global Registry Services|1|US|Virginia
+.|j.root-servers.net.|518400|2001:503:c27::2:30|3600000|AS22547 VeriSign Global Registry Services|0|US|Virginia
+.|c.root-servers.net.|518400|192.33.4.12|3600000|AS2149 Cogent Communications|1|US|Washington, D.C.
+.|c.root-servers.net.|518400|2001:500:2::c|3600000|AS2149 Cogent Communications|0|US|Washington, D.C.
+.|h.root-servers.net.|518400|198.97.190.53|3600000|AS1508 Headquarters, USAISC|1|US|Arizona
+.|h.root-servers.net.|518400|2001:500:1::53|3600000|AS1508 Headquarters, USAISC|0|US|Washington, D.C.
+.|f.root-servers.net.|518400|192.5.5.241|3600000|AS3557 Internet Systems Consortium, Inc.|1|US|New Hampshire
+.|f.root-servers.net.|518400|2001:500:2f::f|3600000|AS3557 Internet Systems Consortium, Inc.|0|US|New Hampshire
+.|g.root-servers.net.|518400|192.112.36.4|3600000|AS5927 DoD Network Information Center|0|US|Ohio
+.|g.root-servers.net.|518400|2001:500:12::d0d|3600000|AS5927 DoD Network Information Center|0|US|Ohio
+.|l.root-servers.net.|518400|199.7.83.42|3600000|AS20144 ICANN|1|US|California
+.|l.root-servers.net.|518400|2001:500:9f::42|3600000|AS20144 ICANN|0|US|California
+.|e.root-servers.net.|518400|192.203.230.10|3600000|AS21556 NASA Ames Research Center|1|US|Ohio
+.|e.root-servers.net.|518400|2001:500:a8::e|3600000|AS21556 NASA Ames Research Center|0|US|California
+.|a.root-servers.net.|518400|198.41.0.4|3600000|AS10515 VeriSign Infrastructure & Operations|1|US|Virginia
+.|a.root-servers.net.|518400|2001:503:ba3e::2:30|3600000|AS10515 VeriSign Infrastructure & Operations|0|US|Virginia
+com.|a.gtld-servers.net.|172800|192.5.6.30|86400|AS26415 VeriSign Global Registry Services|1|US|Virginia
+com.|a.gtld-servers.net.|172800|2001:503:a83e::2:30|86400|AS10515 VeriSign Infrastructure & Operations|0|US|Virginia
+com.|b.gtld-servers.net.|172800|192.33.14.30|86400|AS26415 VeriSign Global Registry Services|1|US|Virginia
+com.|b.gtld-servers.net.|172800|2001:503:231d::2:30|86400|AS26415 VeriSign Global Registry Services|0|US|Virginia
+com.|c.gtld-servers.net.|172800|192.26.92.30|86400|AS27544 VeriSign Global Registry Services|1|US|Virginia
+com.|c.gtld-servers.net.|172800|2001:503:83eb::30|86400|AS10515 VeriSign Infrastructure & Operations|0|US|Virginia
+com.|d.gtld-servers.net.|172800|192.31.80.30|86400|AS27544 VeriSign Global Registry Services|1|US|Virginia
+com.|d.gtld-servers.net.|172800|2001:500:856e::30|86400|AS10515 VeriSign Infrastructure & Operations|0|US|Virginia
+com.|e.gtld-servers.net.|172800|192.12.94.30|86400|AS27544 VeriSign Global Registry Services|1|US|Virginia
+com.|e.gtld-servers.net.|172800|2001:502:1ca1::30|86400|AS10515 VeriSign Infrastructure & Operations|0|US|Virginia
+com.|f.gtld-servers.net.|172800|192.35.51.30|86400|AS29966 VeriSign Global Registry Services|1|US|Virginia
+com.|f.gtld-servers.net.|172800|2001:503:d414::30|86400|AS29966 VeriSign Global Registry Services|0|US|California
+com.|g.gtld-servers.net.|172800|192.42.93.30|86400|AS29966 VeriSign Global Registry Services|1|US|Virginia
+com.|g.gtld-servers.net.|172800|2001:503:eea3::30|86400|AS29966 VeriSign Global Registry Services|0|US|California
+com.|h.gtld-servers.net.|172800|192.54.112.30|86400|AS29966 VeriSign Global Registry Services|1|US|Virginia
+com.|h.gtld-servers.net.|172800|2001:502:8cc::30|86400|AS29966 VeriSign Global Registry Services|0|US|California
+com.|i.gtld-servers.net.|172800|192.43.172.30|86400|AS29966 VeriSign Global Registry Services|1|US|Virginia
+com.|i.gtld-servers.net.|172800|2001:503:39c1::30|86400|AS29966 VeriSign Global Registry Services|0|US|California
+com.|j.gtld-servers.net.|172800|192.48.79.30|86400|AS36623 VeriSign Global Registry Services|1|US|Virginia
+com.|j.gtld-servers.net.|172800|2001:502:7094::30|86400|AS22547 VeriSign Global Registry Services|0|US|Virginia
+com.|k.gtld-servers.net.|172800|192.52.178.30|86400|AS36623 VeriSign Global Registry Services|1|US|Virginia
+com.|k.gtld-servers.net.|172800|2001:503:d2d::30|86400|AS22547 VeriSign Global Registry Services|0|US|Virginia
+com.|l.gtld-servers.net.|172800|192.41.162.30|86400|AS36623 VeriSign Global Registry Services|1|US|Virginia
+com.|l.gtld-servers.net.|172800|2001:500:d937::30|86400|AS22547 VeriSign Global Registry Services|0|US|Virginia
+com.|m.gtld-servers.net.|172800|192.55.83.30|86400|AS36623 VeriSign Global Registry Services|1|US|Virginia
+com.|m.gtld-servers.net.|172800|2001:501:b1f9::30|86400|AS22547 VeriSign Global Registry Services|0|US|Virginia
+amazon.com.|pdns1.ultradns.net.|172800|204.74.108.1|3600|AS12008 NeuStar, Inc.|1|US|Virginia
+amazon.com.|pdns1.ultradns.net.|172800|2001:502:f3ff::1|3600|AS397215 NeuStar, Inc.|0|NL|North Holland
+amazon.com.|pdns6.ultradns.co.uk.|172800|204.74.115.1|3600|AS12008 NeuStar, Inc.|1|US|Arizona
+amazon.com.|pdns6.ultradns.co.uk.|172800|2610:a1:1017::1|3600|AS397213 NeuStar, Inc.|0|NL|North Holland
+amazon.com.|ns1.p31.dynect.net.|172800|208.78.70.31|86400|AS33517 Oracle Corporation|1|US|New Hampshire
+amazon.com.|ns1.p31.dynect.net.|172800|2001:500:90:1::31|300|AS33517 Oracle Corporation|0|US|New Hampshire
+amazon.com.|ns3.p31.dynect.net.|172800|208.78.71.31|86400|AS33517 Oracle Corporation|1|US|New Hampshire
+amazon.com.|ns3.p31.dynect.net.|172800|2001:500:94:1::31|300|AS33517 Oracle Corporation|0|US|New Hampshire
+amazon.com.|ns2.p31.dynect.net.|172800|204.13.250.31|86400|AS33517 Oracle Corporation|1|US|New Hampshire
+amazon.com.|ns4.p31.dynect.net.|172800|204.13.251.31|86400|AS33517 Oracle Corporation|1|US|New Hampshire
+47cf2c8c9-frontier.amazon.com.|ns-1881.awsdns-43.co.uk.|900|205.251.199.89|172800|AS16509 Amazon.com, Inc.|1|US|Washington
+47cf2c8c9-frontier.amazon.com.|ns-1881.awsdns-43.co.uk.|900|2600:9000:5307:5900::1|172800|AS16509 Amazon.com, Inc.|0|US|Washington
+47cf2c8c9-frontier.amazon.com.|ns-477.awsdns-59.com.|900|205.251.193.221|172800|AS16509 Amazon.com, Inc.|1|US|Washington
+47cf2c8c9-frontier.amazon.com.|ns-477.awsdns-59.com.|900|2600:9000:5301:dd00::1|172800|AS16509 Amazon.com, Inc.|0|US|Washington
+47cf2c8c9-frontier.amazon.com.|ns-553.awsdns-05.net.|900|205.251.194.41|172800|AS16509 Amazon.com, Inc.|1|US|Washington
+47cf2c8c9-frontier.amazon.com.|ns-553.awsdns-05.net.|900|2600:9000:5302:2900::1|172800|AS16509 Amazon.com, Inc.|0|US|Washington
+47cf2c8c9-frontier.amazon.com.|ns-1404.awsdns-47.org.|900|205.251.197.124|172800|AS16509 Amazon.com, Inc.|1|US|Washington
+47cf2c8c9-frontier.amazon.com.|ns-1404.awsdns-47.org.|900|2600:9000:5305:7c00::1|172800|AS16509 Amazon.com, Inc.|0|US|Washington
+net.|l.gtld-servers.net.|172800|192.41.162.30|86400|AS36623 VeriSign Global Registry Services|1|US|Virginia
+net.|l.gtld-servers.net.|172800|2001:500:d937::30|86400|AS22547 VeriSign Global Registry Services|0|US|Virginia
+net.|b.gtld-servers.net.|172800|192.33.14.30|86400|AS26415 VeriSign Global Registry Services|1|US|Virginia
+net.|b.gtld-servers.net.|172800|2001:503:231d::2:30|86400|AS26415 VeriSign Global Registry Services|0|US|Virginia
+net.|c.gtld-servers.net.|172800|192.26.92.30|86400|AS27544 VeriSign Global Registry Services|1|US|Virginia
+net.|c.gtld-servers.net.|172800|2001:503:83eb::30|86400|AS10515 VeriSign Infrastructure & Operations|0|US|Virginia
+net.|d.gtld-servers.net.|172800|192.31.80.30|86400|AS27544 VeriSign Global Registry Services|1|US|Virginia
+net.|d.gtld-servers.net.|172800|2001:500:856e::30|86400|AS10515 VeriSign Infrastructure & Operations|0|US|Virginia
+net.|e.gtld-servers.net.|172800|192.12.94.30|86400|AS27544 VeriSign Global Registry Services|1|US|Virginia
+net.|e.gtld-servers.net.|172800|2001:502:1ca1::30|86400|AS10515 VeriSign Infrastructure & Operations|0|US|Virginia
+net.|f.gtld-servers.net.|172800|192.35.51.30|86400|AS29966 VeriSign Global Registry Services|1|US|Virginia
+net.|f.gtld-servers.net.|172800|2001:503:d414::30|86400|AS29966 VeriSign Global Registry Services|0|US|California
+net.|g.gtld-servers.net.|172800|192.42.93.30|86400|AS29966 VeriSign Global Registry Services|1|US|Virginia
+net.|g.gtld-servers.net.|172800|2001:503:eea3::30|86400|AS29966 VeriSign Global Registry Services|0|US|California
+net.|a.gtld-servers.net.|172800|192.5.6.30|86400|AS26415 VeriSign Global Registry Services|1|US|Virginia
+net.|a.gtld-servers.net.|172800|2001:503:a83e::2:30|86400|AS10515 VeriSign Infrastructure & Operations|0|US|Virginia
+net.|h.gtld-servers.net.|172800|192.54.112.30|86400|AS29966 VeriSign Global Registry Services|1|US|Virginia
+net.|h.gtld-servers.net.|172800|2001:502:8cc::30|86400|AS29966 VeriSign Global Registry Services|0|US|California
+net.|i.gtld-servers.net.|172800|192.43.172.30|86400|AS29966 VeriSign Global Registry Services|1|US|Virginia
+net.|i.gtld-servers.net.|172800|2001:503:39c1::30|86400|AS29966 VeriSign Global Registry Services|0|US|California
+net.|j.gtld-servers.net.|172800|192.48.79.30|86400|AS36623 VeriSign Global Registry Services|1|US|Virginia
+net.|j.gtld-servers.net.|172800|2001:502:7094::30|86400|AS22547 VeriSign Global Registry Services|0|US|Virginia
+net.|k.gtld-servers.net.|172800|192.52.178.30|86400|AS36623 VeriSign Global Registry Services|1|US|Virginia
+net.|k.gtld-servers.net.|172800|2001:503:d2d::30|86400|AS22547 VeriSign Global Registry Services|0|US|Virginia
+net.|m.gtld-servers.net.|172800|192.55.83.30|86400|AS36623 VeriSign Global Registry Services|1|US|Virginia
+net.|m.gtld-servers.net.|172800|2001:501:b1f9::30|86400|AS22547 VeriSign Global Registry Services|0|US|Virginia
+edgekey.net.|ns1-66.akam.net.|172800|193.108.91.66|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+edgekey.net.|ns1-66.akam.net.|172800|2600:1401:2::42|90000|AS21342 Akamai International B.V.|0|US|Florida
+edgekey.net.|usw6.akam.net.|172800|23.61.199.64|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+edgekey.net.|adns1.akam.net.|172800|96.7.50.66|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+edgekey.net.|ns4-66.akam.net.|172800|84.53.139.66|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+edgekey.net.|ns7-65.akam.net.|172800|96.7.49.65|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+edgekey.net.|ns5-66.akam.net.|172800|184.85.248.66|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+edgekey.net.|a6-65.akam.net.|172800|23.211.133.65|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+edgekey.net.|a6-65.akam.net.|172800|2600:1401:1::41|90000|AS21342 Akamai International B.V.|0|US|Massachusetts
+edgekey.net.|a12-65.akam.net.|172800|184.26.160.65|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+edgekey.net.|a5-65.akam.net.|172800|95.100.168.65|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+edgekey.net.|a5-65.akam.net.|172800|2600:1480:b000::41|90000|AS21342 Akamai International B.V.|0|US|Massachusetts
+edgekey.net.|a16-65.akam.net.|172800|23.211.132.65|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+edgekey.net.|a16-65.akam.net.|172800|2600:1406:1b::41|90000|AS21342 Akamai International B.V.|0|US|Massachusetts
+edgekey.net.|a18-65.akam.net.|172800|95.101.36.65|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+edgekey.net.|a28-65.akam.net.|172800|95.100.173.65|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+edgekey.net.|a13-65.akam.net.|172800|2.22.230.65|90000|AS21342 Akamai International B.V.|1|ES|Castille-La Mancha
+edgekey.net.|a13-65.akam.net.|172800|2600:1480:800::41|90000|AS21342 Akamai International B.V.|0|US|Massachusetts
+akamaiedge.net.|la1.akamaiedge.net.|172800|184.26.161.192|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+akamaiedge.net.|la3.akamaiedge.net.|172800|95.101.36.192|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+akamaiedge.net.|lar2.akamaiedge.net.|172800|2.16.40.192|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+akamaiedge.net.|ns3-194.akamaiedge.net.|172800|23.61.199.194|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+akamaiedge.net.|ns3-194.akamaiedge.net.|172800|2600:1406:32::c2|90000|AS21342 Akamai International B.V.|0|DK|Capital Region
+akamaiedge.net.|ns6-194.akamaiedge.net.|172800|95.100.168.194|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+akamaiedge.net.|ns7-194.akamaiedge.net.|172800|96.7.49.194|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+akamaiedge.net.|ns5-194.akamaiedge.net.|172800|184.85.248.194|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+akamaiedge.net.|a12-192.akamaiedge.net.|172800|184.26.160.192|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+akamaiedge.net.|a28-192.akamaiedge.net.|172800|95.100.173.192|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+akamaiedge.net.|a6-192.akamaiedge.net.|172800|23.211.133.192|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+akamaiedge.net.|a1-192.akamaiedge.net.|172800|193.108.88.0|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+akamaiedge.net.|a13-192.akamaiedge.net.|172800|2.22.230.192|90000|AS21342 Akamai International B.V.|1|ES|Castille-La Mancha
+akamaiedge.net.|a11-192.akamaiedge.net.|172800|84.53.139.192|90000|AS21342 Akamai International B.V.|1|US|Massachusetts
+akamaiedge.net.|a11-192.akamaiedge.net.|172800|2600:1480:1::c0|90000|AS21342 Akamai International B.V.|0|US|Massachusetts
+a.akamaiedge.net.|n1a.akamaiedge.net.|4000|23.193.46.18|4000|AS20940 Akamai International B.V.|0|US|California
+a.akamaiedge.net.|n1a.akamaiedge.net.|4000|2a02:26f0:5c:f000:f27:9649:9e4a:8b19|4000|AS20940 Akamai International B.V.|0|GB|England
+a.akamaiedge.net.|n3a.akamaiedge.net.|4000|23.193.46.6|4000|AS20940 Akamai International B.V.|0|US|California
+a.akamaiedge.net.|n2a.akamaiedge.net.|4000|184.50.27.238|4000|AS20940 Akamai International B.V.|0|US|California
+a.akamaiedge.net.|n7a.akamaiedge.net.|4000|23.15.241.242|4000|AS20940 Akamai International B.V.|0|US|California
+a.akamaiedge.net.|n0a.akamaiedge.net.|4000|88.221.81.192|4000|AS21342 Akamai International B.V.|1|US|Massachusetts
+a.akamaiedge.net.|n0a.akamaiedge.net.|4000|2600:1480:e800::c0|4000|AS21342 Akamai International B.V.|0|US|Massachusetts
+a.akamaiedge.net.|n4a.akamaiedge.net.|4000|23.193.46.5|4000|AS20940 Akamai International B.V.|0|US|California
+a.akamaiedge.net.|n5a.akamaiedge.net.|4000|23.193.46.7|4000|AS20940 Akamai International B.V.|0|US|California
+a.akamaiedge.net.|n6a.akamaiedge.net.|4000|173.223.52.223|4000|AS20940 Akamai International B.V.|0|US|California
+cloudfront.net.|ns-666.awsdns-19.net.|172800|205.251.194.154|172800|AS16509 Amazon.com, Inc.|1|US|Washington
+cloudfront.net.|ns-666.awsdns-19.net.|172800|2600:9000:5302:9a00::1|172800|AS16509 Amazon.com, Inc.|0|US|Washington
+cloudfront.net.|ns-418.awsdns-52.com.|172800|205.251.193.162|172800|AS16509 Amazon.com, Inc.|1|US|Washington
+cloudfront.net.|ns-418.awsdns-52.com.|172800|2600:9000:5301:a200::1|172800|AS16509 Amazon.com, Inc.|0|US|Washington
+cloudfront.net.|ns-1597.awsdns-07.co.uk.|172800|205.251.198.61|172800|AS16509 Amazon.com, Inc.|1|US|Washington
+cloudfront.net.|ns-1597.awsdns-07.co.uk.|172800|2600:9000:5306:3d00::1|172800|AS16509 Amazon.com, Inc.|0|US|Washington
+cloudfront.net.|ns-1306.awsdns-35.org.|172800|205.251.197.26|172800|AS16509 Amazon.com, Inc.|1|US|Washington
+cloudfront.net.|ns-1306.awsdns-35.org.|172800|2600:9000:5305:1a00::1|172800|AS16509 Amazon.com, Inc.|0|US|Washington
+d3ag4hukkh62yn.cloudfront.net.|ns-1144.awsdns-15.org.|1831|205.251.196.120|172800|AS16509 Amazon.com, Inc.|1|US|Washington
+d3ag4hukkh62yn.cloudfront.net.|ns-1144.awsdns-15.org.|1831|2600:9000:5304:7800::1|172800|AS16509 Amazon.com, Inc.|0|US|Washington
+d3ag4hukkh62yn.cloudfront.net.|ns-130.awsdns-16.com.|1831|205.251.192.130|172800|AS16509 Amazon.com, Inc.|1|US|Washington
+d3ag4hukkh62yn.cloudfront.net.|ns-130.awsdns-16.com.|1831|2600:9000:5300:8200::1|172800|AS16509 Amazon.com, Inc.|0|US|Washington
+d3ag4hukkh62yn.cloudfront.net.|ns-2021.awsdns-60.co.uk.|1831|205.251.199.229|172800|AS16509 Amazon.com, Inc.|1|US|Washington
+d3ag4hukkh62yn.cloudfront.net.|ns-2021.awsdns-60.co.uk.|1831|2600:9000:5307:e500::1|172800|AS16509 Amazon.com, Inc.|0|US|Washington
+d3ag4hukkh62yn.cloudfront.net.|ns-824.awsdns-39.net.|1831|205.251.195.56|172800|AS16509 Amazon.com, Inc.|1|US|Washington
+d3ag4hukkh62yn.cloudfront.net.|ns-824.awsdns-39.net.|1831|2600:9000:5303:3800::1|172800|AS16509 Amazon.com, Inc.|0|US|Washington

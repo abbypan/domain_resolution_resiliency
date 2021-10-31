@@ -1,0 +1,14 @@
+qd|qt|dom|type|rr|rr_ttl|rr_ip|rr_ip_ttl|rr_ip_as|rr_ip_anycast|rr_ip_country|rr_ip_region
+qq.com.|MX|qq.com.|MX|mx2.qq.com.|7200|203.205.219.58|600|AS132203 Tencent Building, Kejizhongyi Avenue|0|HK|Sham Shui Po
+qq.com.|MX|qq.com.|MX|mx2.qq.com.|7200|240d:c040:1:40::133|600|AS132203 Tencent Building, Kejizhongyi Avenue|0|SG|Singapore
+qq.com.|MX|qq.com.|MX|mx1.qq.com.|7200|162.62.116.184|3600|AS132203 Tencent Building, Kejizhongyi Avenue|0|DE|Hesse
+qq.com.|MX|qq.com.|MX|mx1.qq.com.|7200|240d:c040:1:40::133|3600|AS132203 Tencent Building, Kejizhongyi Avenue|0|SG|Singapore
+qq.com.|MX|qq.com.|MX|mx3.qq.com.|7200|203.205.219.57|600|AS132203 Tencent Building, Kejizhongyi Avenue|0|HK|Sham Shui Po
+qq.com.|MX|qq.com.|MX|mx3.qq.com.|7200|240d:c040:1:40::133|600|AS132203 Tencent Building, Kejizhongyi Avenue|0|SG|Singapore
+www.qq.com.|A|www.qq.com.|CNAME|news.qq.com.edgekey.net.|300|news.qq.com.edgekey.net.|300||||
+www.qq.com.|A|news.qq.com.edgekey.net.|CNAME|e6156.dscf.akamaiedge.net.|21600|e6156.dscf.akamaiedge.net.|21600||||
+www.qq.com.|A|e6156.dscf.akamaiedge.net.|A|104.70.224.185|20|104.70.224.185|20|AS16625 Akamai Technologies, Inc.|0|US|California
+www.qq.com.|AAAA|www.qq.com.|CNAME|news.qq.com.edgekey.net.|300|news.qq.com.edgekey.net.|300||||
+www.qq.com.|AAAA|news.qq.com.edgekey.net.|CNAME|e6156.dscf.akamaiedge.net.|21600|e6156.dscf.akamaiedge.net.|21600||||
+www.qq.com.|AAAA|e6156.dscf.akamaiedge.net.|AAAA|2600:1406:3f:396::180c|20|2600:1406:3f:396::180c|20|AS20940 Akamai International B.V.|0|US|California
+www.qq.com.|AAAA|e6156.dscf.akamaiedge.net.|AAAA|2600:1406:3f:390::180c|20|2600:1406:3f:390::180c|20|AS20940 Akamai International B.V.|0|US|California

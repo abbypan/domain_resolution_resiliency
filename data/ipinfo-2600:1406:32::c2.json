@@ -1,0 +1,11 @@
+{
+  "ip": "2600:1406:32::c2",
+  "city": "Copenhagen",
+  "region": "Capital Region",
+  "country": "DK",
+  "loc": "55.6759,12.5655",
+  "org": "AS21342 Akamai International B.V.",
+  "postal": "1555",
+  "timezone": "Europe/Copenhagen",
+  "readme": "https://ipinfo.io/missingauth"
+}

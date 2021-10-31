@@ -1,0 +1,13 @@
+{
+  "ip": "198.97.190.53",
+  "hostname": "h.root-servers.net",
+  "anycast": true,
+  "city": "Sierra Vista",
+  "region": "Arizona",
+  "country": "US",
+  "loc": "31.5587,-110.3441",
+  "org": "AS1508 Headquarters, USAISC",
+  "postal": "85613",
+  "timezone": "America/Phoenix",
+  "readme": "https://ipinfo.io/missingauth"
+}

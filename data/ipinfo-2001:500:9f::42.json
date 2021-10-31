@@ -1,0 +1,11 @@
+{
+  "ip": "2001:500:9f::42",
+  "city": "Culver City",
+  "region": "California",
+  "country": "US",
+  "loc": "33.9728,-118.4276",
+  "org": "AS20144 ICANN",
+  "postal": "90094",
+  "timezone": "America/Los_Angeles",
+  "readme": "https://ipinfo.io/missingauth"
+}

@@ -1,0 +1,12 @@
+{
+  "ip": "185.89.218.12",
+  "hostname": "c.ns.facebook.com",
+  "anycast": true,
+  "city": "Tel Aviv",
+  "region": "Tel Aviv",
+  "country": "IL",
+  "loc": "32.0809,34.7806",
+  "org": "AS32934 Facebook, Inc.",
+  "timezone": "Asia/Jerusalem",
+  "readme": "https://ipinfo.io/missingauth"
+}

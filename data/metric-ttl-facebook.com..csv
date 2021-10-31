@@ -1,0 +1,7 @@
+qd|qt|dom|type|rr|rr_ttl|rr_ip|rr_ip_ttl|rr_ip_as|rr_ip_anycast|rr_ip_country|rr_ip_region
+facebook.com.|MX|facebook.com.|MX|smtpin.vvv.facebook.com.|3600|173.252.127.251|300|AS32934 Facebook, Inc.|0|US|Georgia
+facebook.com.|MX|facebook.com.|MX|smtpin.vvv.facebook.com.|3600|2a03:2880:ff:fffd:face:b00c:0:686e|300|AS32934 Facebook, Inc.|0|IE|Leinster
+www.facebook.com.|A|www.facebook.com.|CNAME|star-mini.c10r.facebook.com.|3600|star-mini.c10r.facebook.com.|3600||||
+www.facebook.com.|A|star-mini.c10r.facebook.com.|A|31.13.70.36|60|31.13.70.36|60|AS32934 Facebook, Inc.|0|US|California
+www.facebook.com.|AAAA|www.facebook.com.|CNAME|star-mini.c10r.facebook.com.|3600|star-mini.c10r.facebook.com.|3600||||
+www.facebook.com.|AAAA|star-mini.c10r.facebook.com.|AAAA|2a03:2880:f10d:83:face:b00c:0:25de|60|2a03:2880:f10d:83:face:b00c:0:25de|60|AS32934 Facebook, Inc.|0|IE|Leinster

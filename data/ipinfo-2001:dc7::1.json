@@ -1,0 +1,11 @@
+{
+  "ip": "2001:dc7::1",
+  "city": "Melbourne",
+  "region": "Victoria",
+  "country": "AU",
+  "loc": "-37.8140,144.9633",
+  "org": "AS24151 China Internet Network Infomation Center",
+  "postal": "3000",
+  "timezone": "Australia/Melbourne",
+  "readme": "https://ipinfo.io/missingauth"
+}

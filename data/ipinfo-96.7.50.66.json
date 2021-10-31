@@ -1,0 +1,13 @@
+{
+  "ip": "96.7.50.66",
+  "hostname": "a10-66.akam.net",
+  "anycast": true,
+  "city": "Cambridge",
+  "region": "Massachusetts",
+  "country": "US",
+  "loc": "42.3620,-71.0830",
+  "org": "AS21342 Akamai International B.V.",
+  "postal": "02142",
+  "timezone": "America/New_York",
+  "readme": "https://ipinfo.io/missingauth"
+}

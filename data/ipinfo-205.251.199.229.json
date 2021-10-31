@@ -1,0 +1,13 @@
+{
+  "ip": "205.251.199.229",
+  "hostname": "ns-2021.awsdns-60.co.uk",
+  "anycast": true,
+  "city": "Seattle",
+  "region": "Washington",
+  "country": "US",
+  "loc": "47.6062,-122.3321",
+  "org": "AS16509 Amazon.com, Inc.",
+  "postal": "98101",
+  "timezone": "America/Los_Angeles",
+  "readme": "https://ipinfo.io/missingauth"
+}

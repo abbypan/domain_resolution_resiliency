@@ -1,0 +1,11 @@
+{
+  "ip": "2001:dc3::35",
+  "city": "Tokyo",
+  "region": "Tokyo",
+  "country": "JP",
+  "loc": "35.6500,139.7333",
+  "org": "AS7500 WIDE Project",
+  "postal": "108-8345",
+  "timezone": "Asia/Tokyo",
+  "readme": "https://ipinfo.io/missingauth"
+}

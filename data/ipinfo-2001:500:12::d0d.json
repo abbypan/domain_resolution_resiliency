@@ -1,0 +1,11 @@
+{
+  "ip": "2001:500:12::d0d",
+  "city": "Columbus",
+  "region": "Ohio",
+  "country": "US",
+  "loc": "39.9690,-83.0114",
+  "org": "AS5927 DoD Network Information Center",
+  "postal": "43218",
+  "timezone": "America/New_York",
+  "readme": "https://ipinfo.io/missingauth"
+}

@@ -1,0 +1,11 @@
+{
+  "ip": "2001:7fe::53",
+  "city": "Stockholm",
+  "region": "Stockholm",
+  "country": "SE",
+  "loc": "59.3326,18.0649",
+  "org": "AS29216 NETNOD Internet Exchange i Sverige AB",
+  "postal": "111 57",
+  "timezone": "Europe/Stockholm",
+  "readme": "https://ipinfo.io/missingauth"
+}

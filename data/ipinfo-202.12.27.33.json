@@ -1,0 +1,13 @@
+{
+  "ip": "202.12.27.33",
+  "hostname": "m.root-servers.net",
+  "anycast": true,
+  "city": "Tokyo",
+  "region": "Tokyo",
+  "country": "JP",
+  "loc": "35.6500,139.7333",
+  "org": "AS7500 WIDE Project",
+  "postal": "108-8345",
+  "timezone": "Asia/Tokyo",
+  "readme": "https://ipinfo.io/missingauth"
+}

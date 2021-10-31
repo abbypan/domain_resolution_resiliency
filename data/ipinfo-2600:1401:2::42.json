@@ -1,0 +1,11 @@
+{
+  "ip": "2600:1401:2::42",
+  "city": "Miami",
+  "region": "Florida",
+  "country": "US",
+  "loc": "25.7743,-80.1937",
+  "org": "AS21342 Akamai International B.V.",
+  "postal": "33101",
+  "timezone": "America/New_York",
+  "readme": "https://ipinfo.io/missingauth"
+}

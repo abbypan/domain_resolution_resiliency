@@ -1,0 +1,13 @@
+{
+  "ip": "192.5.5.241",
+  "hostname": "f.root-servers.net",
+  "anycast": true,
+  "city": "Newmarket",
+  "region": "New Hampshire",
+  "country": "US",
+  "loc": "43.0829,-70.9351",
+  "org": "AS3557 Internet Systems Consortium, Inc.",
+  "postal": "03857",
+  "timezone": "America/New_York",
+  "readme": "https://ipinfo.io/missingauth"
+}

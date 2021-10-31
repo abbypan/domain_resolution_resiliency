@@ -1,0 +1,8 @@
+qd|qt|dom|type|rr|rr_ttl|rr_ip|rr_ip_ttl|rr_ip_as|rr_ip_anycast|rr_ip_country|rr_ip_region
+amazon.com.|MX|amazon.com.|MX|amazon-smtp.amazon.com.|900|99.78.197.213|60|AS16509 Amazon.com, Inc.|0|US|Oregon
+www.amazon.com.|A|www.amazon.com.|CNAME|tp.47cf2c8c9-frontier.amazon.com.|1800|tp.47cf2c8c9-frontier.amazon.com.|1800||||
+www.amazon.com.|A|tp.47cf2c8c9-frontier.amazon.com.|CNAME|www.amazon.com.edgekey.net.|60|www.amazon.com.edgekey.net.|60||||
+www.amazon.com.|A|www.amazon.com.edgekey.net.|CNAME|e15316.a.akamaiedge.net.|86400|e15316.a.akamaiedge.net.|86400||||
+www.amazon.com.|A|e15316.a.akamaiedge.net.|A|23.52.177.96|20|23.52.177.96|20|AS16625 Akamai Technologies, Inc.|0|US|California
+www.amazon.com.|AAAA|www.amazon.com.|CNAME|tp.47cf2c8c9-frontier.amazon.com.|1800|tp.47cf2c8c9-frontier.amazon.com.|1800||||
+www.amazon.com.|AAAA|tp.47cf2c8c9-frontier.amazon.com.|CNAME|d3ag4hukkh62yn.cloudfront.net.|60|d3ag4hukkh62yn.cloudfront.net.|60||||

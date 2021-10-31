@@ -1,0 +1,10 @@
+{
+  "ip": "2001:dd9::44",
+  "city": "Haidian",
+  "region": "Beijing",
+  "country": "CN",
+  "loc": "39.9906,116.2887",
+  "org": "AS24302 CRIS-CERNET",
+  "timezone": "Asia/Shanghai",
+  "readme": "https://ipinfo.io/missingauth"
+}

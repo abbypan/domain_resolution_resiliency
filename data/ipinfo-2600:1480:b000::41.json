@@ -1,0 +1,11 @@
+{
+  "ip": "2600:1480:b000::41",
+  "city": "Cambridge",
+  "region": "Massachusetts",
+  "country": "US",
+  "loc": "42.3620,-71.0830",
+  "org": "AS21342 Akamai International B.V.",
+  "postal": "02142",
+  "timezone": "America/New_York",
+  "readme": "https://ipinfo.io/missingauth"
+}

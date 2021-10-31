@@ -1,0 +1,13 @@
+{
+  "ip": "88.221.81.192",
+  "hostname": "a88-221-81-192.deploy.static.akamaitechnologies.com",
+  "anycast": true,
+  "city": "Cambridge",
+  "region": "Massachusetts",
+  "country": "US",
+  "loc": "42.3751,-71.1056",
+  "org": "AS21342 Akamai International B.V.",
+  "postal": "02238",
+  "timezone": "America/New_York",
+  "readme": "https://ipinfo.io/missingauth"
+}

@@ -1,0 +1,13 @@
+{
+  "ip": "2.22.230.65",
+  "hostname": "ns2-65.akam.net",
+  "anycast": true,
+  "city": "Pozohondo",
+  "region": "Castille-La Mancha",
+  "country": "ES",
+  "loc": "38.6599,-1.8972",
+  "org": "AS21342 Akamai International B.V.",
+  "postal": "02142",
+  "timezone": "Europe/Madrid",
+  "readme": "https://ipinfo.io/missingauth"
+}

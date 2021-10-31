@@ -1,0 +1,6 @@
+qd|qt|dom|type|rr|rr_ttl|rr_ip|rr_ip_ttl|rr_ip_as|rr_ip_anycast|rr_ip_country|rr_ip_region
+weibo.cn.|MX|weibo.cn.|MX|mx.sina.net.|60|36.51.254.76|60|AS37936 SINA|0|HK|Central and Western
+www.weibo.cn.|A|www.weibo.cn.|CNAME|weibo.cn.|60|weibo.cn.|60||||
+www.weibo.cn.|A|weibo.cn.|A|36.51.254.228|60|36.51.254.228|60|AS37936 SINA|0|HK|Central and Western
+www.weibo.cn.|A|weibo.cn.|A|36.51.254.229|60|36.51.254.229|60|AS37936 SINA|0|HK|Central and Western
+www.weibo.cn.|AAAA|www.weibo.cn.|CNAME|weibo.cn.|60|weibo.cn.|60||||

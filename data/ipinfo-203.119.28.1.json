@@ -1,0 +1,12 @@
+{
+  "ip": "203.119.28.1",
+  "hostname": "d.dns.cn",
+  "anycast": true,
+  "city": "Beijing",
+  "region": "Beijing",
+  "country": "CN",
+  "loc": "39.9075,116.3972",
+  "org": "AS24151 China Internet Network Infomation Center",
+  "timezone": "Asia/Shanghai",
+  "readme": "https://ipinfo.io/missingauth"
+}

@@ -1,0 +1,11 @@
+{
+  "ip": "2001:502:f3ff::1",
+  "city": "Amsterdam",
+  "region": "North Holland",
+  "country": "NL",
+  "loc": "52.3883,4.8335",
+  "org": "AS397215 NeuStar, Inc.",
+  "postal": "1043",
+  "timezone": "Europe/Amsterdam",
+  "readme": "https://ipinfo.io/missingauth"
+}

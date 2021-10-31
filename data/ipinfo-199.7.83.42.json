@@ -1,0 +1,13 @@
+{
+  "ip": "199.7.83.42",
+  "hostname": "l.root-servers.net",
+  "anycast": true,
+  "city": "Culver City",
+  "region": "California",
+  "country": "US",
+  "loc": "33.9728,-118.4276",
+  "org": "AS20144 ICANN",
+  "postal": "90094",
+  "timezone": "America/Los_Angeles",
+  "readme": "https://ipinfo.io/missingauth"
+}
